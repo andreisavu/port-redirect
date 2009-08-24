@@ -1,0 +1,129 @@
+
+MESSAGE destination host : www.google.com
+MESSAGE destination port : 80
+MESSAGE redirect port : 80
+MESSAGE max_client_number : 128
+MESSAGE multiple connections same client  : 1
+MESSAGE use trusted ip : 0
+MESSAGE trusted ip list : 
+MESSAGE use banned ip : 0
+MESSAGE banned ip list : 
+MESSAGE redirect daemon started
+MESSAGE redirect daemon close
+
+MESSAGE destination host : www.google.com
+MESSAGE destination port : 80
+MESSAGE redirect port : 80
+MESSAGE max_client_number : 128
+MESSAGE multiple connections same client  : 1
+MESSAGE use trusted ip : 0
+MESSAGE trusted ip list : 
+MESSAGE use banned ip : 0
+MESSAGE banned ip list : 
+MESSAGE redirect daemon started
+MESSAGE redirect daemon close
+
+MESSAGE destination host : www.google.com
+MESSAGE destination port : 80
+MESSAGE redirect port : 80
+MESSAGE max_client_number : 128
+MESSAGE multiple connections same client  : 1
+MESSAGE use trusted ip : 0
+MESSAGE trusted ip list : 
+MESSAGE use banned ip : 0
+MESSAGE banned ip list : 
+MESSAGE redirect daemon started
+MESSAGE redirect daemon close
+
+MESSAGE destination host : www.google.com
+MESSAGE destination port : 80
+MESSAGE redirect port : 80
+MESSAGE max_client_number : 128
+MESSAGE multiple connections same client  : 1
+MESSAGE use trusted ip : 0
+MESSAGE trusted ip list : 
+MESSAGE use banned ip : 0
+MESSAGE banned ip list : 
+MESSAGE redirect daemon started
+MESSAGE redirect daemon close
+
+MESSAGE destination host : www.google.com
+MESSAGE destination port : 80
+MESSAGE redirect port : 80
+MESSAGE max_client_number : 128
+MESSAGE multiple connections same client  : 1
+MESSAGE use trusted ip : 0
+MESSAGE trusted ip list : 
+MESSAGE use banned ip : 0
+MESSAGE banned ip list : 
+MESSAGE redirect daemon started
+MESSAGE redirect daemon close
+
+MESSAGE destination host : www.google.com
+MESSAGE destination port : 80
+MESSAGE redirect port : 80
+MESSAGE max_client_number : 128
+MESSAGE multiple connections same client  : 1
+MESSAGE use trusted ip : 0
+MESSAGE trusted ip list : 
+MESSAGE use banned ip : 0
+MESSAGE banned ip list : 
+MESSAGE redirect daemon started
+MESSAGE redirect daemon close
+
+MESSAGE destination host : www.google.com
+MESSAGE destination port : 80
+MESSAGE redirect port : 80
+MESSAGE max_client_number : 128
+MESSAGE multiple connections same client  : 1
+MESSAGE use trusted ip : 0
+MESSAGE trusted ip list : 
+MESSAGE use banned ip : 0
+MESSAGE banned ip list : 
+MESSAGE redirect daemon started
+
+MESSAGE destination host : www.google.com
+MESSAGE destination port : 80
+MESSAGE redirect port : 80
+MESSAGE max_client_number : 128
+MESSAGE multiple connections same client  : 1
+MESSAGE use trusted ip : 0
+MESSAGE trusted ip list : 
+MESSAGE use banned ip : 0
+MESSAGE banned ip list : 
+FATAL Address in use
+
+MESSAGE destination host : www.google.com
+MESSAGE destination port : 80
+MESSAGE redirect port : 79
+MESSAGE max_client_number : 128
+MESSAGE multiple connections same client  : 1
+MESSAGE use trusted ip : 0
+MESSAGE trusted ip list : 
+MESSAGE use banned ip : 0
+MESSAGE banned ip list : 
+MESSAGE redirect daemon started
+MESSAGE redirect daemon close
+
+MESSAGE destination host : www.google.com
+MESSAGE destination port : 80
+MESSAGE redirect port : 80
+MESSAGE max_client_number : 128
+MESSAGE multiple connections same client  : 1
+MESSAGE use trusted ip : 0
+MESSAGE trusted ip list : 
+MESSAGE use banned ip : 0
+MESSAGE banned ip list : 
+MESSAGE redirect daemon started
+MESSAGE redirect daemon close
+
+MESSAGE destination host : www.google.com
+MESSAGE destination port : 80
+MESSAGE redirect port : 80
+MESSAGE max_client_number : 128
+MESSAGE multiple connections same client  : 1
+MESSAGE use trusted ip : 0
+MESSAGE trusted ip list : 
+MESSAGE use banned ip : 0
+MESSAGE banned ip list : 
+FATAL Unknown error
